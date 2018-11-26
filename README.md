@@ -29,7 +29,7 @@ https://[your_account_name].github.io/jist2018-hands-on/trial1/sgvizler/chart.ht
 
 e.g. : https://lod4all.github.io/jist2018-hands-on/trial1/sgvizler/chart.html
 
-## Trial1:Visualizing corporate data
+## Trial1:Visualizing corporate data  
 
 Trial 1-1: Default query
 ```
